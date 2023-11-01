@@ -24,13 +24,13 @@ If your keyboard has Calc key, then you may run [set-LaunchApp2.bat](set-LaunchA
 
 ## Usage
 
-**Launch**
+**Launch**  
 If your keyboard has Calc key, press the Calc key to launch REPL Calculator, otherwise run [SingleInstance.exe](SingleInstance.exe) or [calc.bat](calc.bat) to launch REPL Calculator
 
-**Input**
+**Input**  
 ![Node REPL Calculator](screenshot.png)
 
-**Close**
+**Close**  
 
 When closing a window session, eval history will be saved to [.repl_history](.repl_history)
 
